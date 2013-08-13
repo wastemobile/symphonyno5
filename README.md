@@ -2,8 +2,13 @@
 
 * Version 0.9.1
 * Date: 13th August 2013
+* 除預設外掛之外，添加許多專案要使用的外掛
 
 ## Overview
+
+編輯 symphonyno5.sh 檔案中對應的 github repo，即可叫用自己的修改，快速建置 Symphony CMS 2.3.3 專案網站。
+
+Todo: 將前端需要的框架加入 workspace 之中。
 
 Symphony No.5 is a [Symphony CMS](http://getsymphony.com/) installation with an adapted [HTML5Boilerplate](http://html5boilerplate.com/) `master.xsl` template. It works in tandem with [symphonyno5.sh](http://github.com/firegoby/symphonyno5.sh.git) for command-line admin of your Symphony project.
 
