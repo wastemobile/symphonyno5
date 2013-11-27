@@ -44,6 +44,3 @@ git://github.com/vlad-ghita/sections_event.git,extensions/sections_event
 git://github.com/symphonists/paypal_payments.git,extensions/paypal_payments
 git://github.com/symphonists/incrementnumberfield.git,extensions/incrementnumberfield
 git://github.com/symphonists/content_type_mappings.git,extensions/content_type_mappings
-git://github.com/vlad-ghita/languages.git,extensions/languages
-git://github.com/vlad-ghita/flang_detection_gtlds.git,extensions/flang_detection_gtlds
-git://github.com/vlad-ghita/frontend_localisation.git,extensions/frontend_localisation
