@@ -33,7 +33,6 @@ git://github.com/ahwayakchih/templatedtextformatters.git,extensions/templatedtex
 git://github.com/lewiswharf/mailchimp.git,extensions/mailchimp
 git://github.com/remie/bitly.git,extensions/bitly
 git://github.com/symphonycms/members.git,extensions/members
-git://github.com/korelogic/member_ip.git,extensions/member_ip
 git://github.com/iwyg/apipage.git,extensions/apipage
 git://github.com/tachyondecay/tag_manager.git,extensions/tag_manager
 git://github.com/alpacaaa/shorten.git,extensions/shorten
