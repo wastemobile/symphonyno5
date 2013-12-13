@@ -12,10 +12,6 @@ git://github.com/symphonycms/members.git,extensions/members
 git://github.com/symphonycms/uniqueinputfield.git,extensions/uniqueinputfield
 git://github.com/firegoby/production_mode.git,extensions/production_mode
 git://github.com/firegoby/asset_compiler.git,extensions/asset_compiler
-git://github.com/vlad-ghita/languages.git,extensions/languages
-git://github.com/vlad-ghita/flang_detection_gtlds.git,extensions/flang_detection_gtlds
-git://github.com/vlad-ghita/frontend_localisation.git,extensions/frontend_localisation
-git://github.com/vlad-ghita/page_lhandles.git,extensions/page_lhandles
 git://github.com/vlad-ghita/sections_event.git,extensions/sections_event
 git://github.com/symphonists/encrypted_input.git,extensions/encrypted_input
 git://github.com/symphonists/xmlimporter.git,extensions/xmlimporter
@@ -52,5 +48,4 @@ git://github.com/brendo/uniondatasource.git,extensions/uniondatasource
 git://github.com/hananils/subsectionmanager.git,extensions/subsectionmanager
 git://github.com/hananils/datetime.git,extensions/datetime
 git://github.com/ashooner/exsl_function_manager.git,extensions/exsl_function_manager
-git://github.com/creativedutchmen/email_template_manager.git,extensions/email_template_manager
 
