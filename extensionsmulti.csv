@@ -21,4 +21,7 @@ git://github.com/DavidOliver/device_categorizr.git,extensions/device_categorizr
 git://github.com/hananils/subsectionmanager.git,extensions/subsectionmanager
 git://github.com/hananils/datetime.git,extensions/datetime
 git://github.com/ashooner/exsl_function_manager.git,extensions/exsl_function_manager
-
+git://github.com/vlad-ghita/languages.git,extensions/languages
+git://github.com/vlad-ghita/flang_detection_gtlds.git,extensions/flang_detection_gtlds
+git://github.com/vlad-ghita/frontend_localisation.git,extensions/frontend_localisation
+git://github.com/vlad-ghita/page_lhandles.git,extensions/page_lhandles
