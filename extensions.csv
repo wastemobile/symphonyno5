@@ -52,6 +52,6 @@ git://github.com/brendo/uniondatasource.git,extensions/uniondatasource
 git://github.com/hananils/subsectionmanager.git,extensions/subsectionmanager
 git://github.com/hananils/datetime.git,extensions/datetime
 git://github.com/ashooner/exsl_function_manager.git,extensions/exsl_function_manager
-git://github.com/creativedutchmen/email_newsletter_manager.git,extensions/email_newsletter_manager
 git://github.com/creativedutchmen/email_template_manager.git,extensions/email_template_manager
+git://github.com/creativedutchmen/email_newsletter_manager.git,extensions/email_newsletter_manager
 
