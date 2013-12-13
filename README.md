@@ -4,6 +4,10 @@
 * Date: 13th August 2013
 * 除預設外掛之外，添加許多專案要使用的外掛
 
+### 注意
+
+* 不明原因，若在初始就安裝 ETM 與 Newsletter 兩個外掛，系統會報錯，因此移除這兩個外掛，當安裝完成、建立前端會員資料表後，再覆蓋外掛清單並執行 `symphonyno5 extensions` 指令進行更新。
+
 ## Overview
 
 編輯 symphonyno5.sh 檔案中對應的 github repo，即可叫用自己的修改，快速建置 Symphony CMS 2.3.3 專案網站。
