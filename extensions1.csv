@@ -5,11 +5,9 @@ git://github.com/brendo/field_metakeys.git,extensions/field_metakeys
 git://github.com/nickdunn/xml_selectbox.git,extensions/xml_selectbox
 git://github.com/ahwayakchih/parametrisator.git,extensions/parametrisator
 git://github.com/pixelninja/sitemap_xml.git,extensions/sitemap_xml
-git://github.com/pixelninja/page_type_tool.git,extensions/page_type_tool
 git://github.com/michael-e/uniqueuploadfield.git,extensions/uniqueuploadfield
 git://github.com/ahwayakchih/templatedtextformatters.git,extensions/templatedtextformatters
 git://github.com/remie/bitly.git,extensions/bitly
-git://github.com/iwyg/apipage.git,extensions/apipage
 git://github.com/alpacaaa/shorten.git,extensions/shorten
 git://github.com/passbe/twitter.git,extensions/twitter
 git://github.com/brendo/uniondatasource.git,extensions/uniondatasource
