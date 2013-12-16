@@ -2,3 +2,6 @@ git://github.com/vlad-ghita/languages.git,extensions/languages
 git://github.com/vlad-ghita/flang_detection_gtlds.git,extensions/flang_detection_gtlds
 git://github.com/vlad-ghita/frontend_localisation.git,extensions/frontend_localisation
 git://github.com/vlad-ghita/page_lhandles.git,extensions/page_lhandles
+git://github.com/rowan-lewis/textboxfield.git,extensions/textboxfield
+git://github.com/vlad-ghita/multilingual_field.git,extensions/multilingual_field
+git://github.com/vlad-ghita/multilingual_metakeys.git,extensions/multilingual_metakeys
