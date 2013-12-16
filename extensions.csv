@@ -31,4 +31,5 @@ git://github.com/symphonists/url_router.git,extensions/url_router
 git://github.com/symphonists/search_index.git,extensions/search_index
 git://github.com/symphonists/content_type_mappings.git,extensions/content_type_mappings
 git://github.com/symphonists/enhancedtaglist.git,extensions/enhancedtaglist
-
+git://github.com/symphonists/db_sync.git,extensions/db_sync
+git://github.com/symphonists/breadcrumb.git,extensions/breadcrumb
