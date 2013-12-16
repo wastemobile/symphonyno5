@@ -1,0 +1,13 @@
+git://github.com/bauhouse/configuration.git,extensions/configuration
+git://github.com/nickdunn/order_entries.git,extensions/order_entries
+git://github.com/nickdunn/dashboard.git,extensions/dashboard
+git://github.com/nickdunn/rest_api.git,extensions/rest_api
+git://github.com/nickdunn/entity_diagram.git,extensions/entity_diagram
+git://github.com/pixelninja/useragent_details.git,extensions/useragent_details
+git://github.com/DavidOliver/device_categorizr.git,extensions/device_categorizr
+git://github.com/hananils/subsectionmanager.git,extensions/subsectionmanager
+git://github.com/hananils/datetime.git,extensions/datetime
+git://github.com/ashooner/exsl_function_manager.git,extensions/exsl_function_manager
+git://github.com/firegoby/production_mode.git,extensions/production_mode
+git://github.com/firegoby/asset_compiler.git,extensions/asset_compiler
+
