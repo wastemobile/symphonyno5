@@ -4,13 +4,15 @@
 * Date: 13th August 2013
 * 除預設外掛之外，添加許多專案要使用的外掛
 
-### 注意
+### 注意之一
 
 * 不明原因，若在初始就安裝 ETM 與 Newsletter 兩個外掛，系統會報錯，因此移除這兩個外掛，當安裝完成、建立前端會員資料表後，再覆蓋外掛清單並執行 `symphonyno5 extensions` 指令進行更新。
 * 暫時將外掛清單修改成最精簡的版本（最接近核心的外掛群，包含 Members），安裝完成後設定前端會員資料表、至設定區設定對應，再調整成後續版本。
-* extensions1 為更多的一組外掛清單。
-* extensions2 添加了 Email Template Manager 與 Email Newsletter Manager。
-* extensionsmulti 則是測試前端多語界面的暫用版本。
+* extensionsX 為額外的外掛清單組，應自行選擇拷貝加入到 extensions.csv 中。
+
+### 注意之二
+
+若網站不經正常安裝程序，而是直接複製已安裝的倉儲時，必須自行建立 manifest 目錄的連結，使用 `ln -s manifest.dev manifest`（開發環境） 或 `ln -s manifest.prod manifest`（對外網站）。
 
 ## Overview
 
