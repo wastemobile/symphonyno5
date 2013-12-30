@@ -1,0 +1,6 @@
+git://github.com/lewiswharf/mailchimp.git,extensions/mailchimp
+git://github.com/creativedutchmen/email_template_manager.git,extensions/email_template_manager
+git://github.com/creativedutchmen/email_newsletter_manager.git,extensions/email_newsletter_manager
+git://github.com/symphonists/paypal_payments.git,extensions/paypal_payments
+git://github.com/jonmifsud/oauth.git,extensions/oauth
+git://github.com/symphonists/localisationmanager.git,extensions/localisationmanager
