@@ -26,7 +26,7 @@
 		 * An array of all extensions whose status is enabled
 		 * @var array
 		 */
-		private static $_enabled_extensions = null;
+		private static $_enabled_extensions = array();
 
 		/**
 		 * An array of all the subscriptions to Symphony delegates made by extensions.
@@ -57,7 +57,7 @@
 		 * the `tbl_extension` and `tbl_extensions_delegates` tables.
 		 */
 		public function __construct() {
-			if (empty(self::$_subscriptions)) {
+			if (empty(self::$_subscriptions) && Symphony::Database()->isConnected()) {
 				$subscriptions = Symphony::Database()->fetch("
 					SELECT t1.name, t2.page, t2.delegate, t2.callback
 					FROM `tbl_extensions` as t1 INNER JOIN `tbl_extensions_delegates` as t2 ON t1.id = t2.extension_id
@@ -615,7 +615,7 @@
 		 * @return array
 		 */
 		public static function listInstalledHandles(){
-			if(is_null(self::$_enabled_extensions)) {
+			if(empty(self::$_enabled_extensions) && Symphony::Database()->isConnected()) {
 				self::$_enabled_extensions = Symphony::Database()->fetchCol('name',
 					"SELECT `name` FROM `tbl_extensions` WHERE `status` = 'enabled'"
 				);

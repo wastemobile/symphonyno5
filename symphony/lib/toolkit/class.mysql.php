@@ -439,7 +439,7 @@
 		 */
 		public function query($query, $type = "OBJECT"){
 
-			if(empty($query)) return false;
+			if(empty($query) || self::isConnected() === false) return false;
 
 			$start = precision_timer();
 			$query = trim($query);
@@ -467,7 +467,7 @@
 			$this->_lastQuery = $query;
 			$this->_lastQueryHash = $query_hash;
 			$this->_result = mysql_query($query, MySQL::$_connection['id']);
-            $this->_lastInsertID = mysql_insert_id(MySQL::$_connection['id']);
+			$this->_lastInsertID = mysql_insert_id(MySQL::$_connection['id']);
 
 			self::$_query_count++;
 
