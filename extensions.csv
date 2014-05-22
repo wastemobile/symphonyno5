@@ -10,5 +10,3 @@ git://github.com/symphonycms/numberfield.git,extensions/numberfield
 git://github.com/symphonycms/remote_datasource.git,extensions/remote_datasource
 git://github.com/symphonycms/members.git,extensions/members
 git://github.com/symphonycms/uniqueinputfield.git,extensions/uniqueinputfield
-git://github.com/nils-werner/dump_db.git,extensions/dump_db
-git://github.com/symphonists/db_sync.git,extensions/db_sync
